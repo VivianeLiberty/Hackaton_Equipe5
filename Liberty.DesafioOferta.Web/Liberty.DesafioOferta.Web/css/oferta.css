@@ -284,6 +284,11 @@ h6 {
     background: #eff5f5;
 }
 
+.section-bg-final {
+    background: #feda00;
+    height: 320px;
+}
+
 #beneficios {
     padding: 60px 0 60px 0;
     overflow: hidden;
@@ -403,6 +408,41 @@ h6 {
         border: 0;
         border-bottom: 1px solid #48535b;
         border-radius: 0;
+    }
+
+#preco {
+    padding-top: 30px;
+}
+
+#preco h3 {
+    font-size: 34px;
+    color: #191443;
+    font-weight: 300;
+}
+
+#preco h4 {
+    font-size: 48px;
+    color: #191443;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+#preco .box-preco {
+    border: 2px solid #191443;
+    padding: 20px;
+    text-align: center;
+}
+
+.btn-final {
+    background-color: #1a1442;
+    color: #fff;
+    border: none;
+}
+
+    .btn-final:hover {
+        background-color: #1a1442;
+        color: #fff;
+        border: none;
     }
 
 #footer {
