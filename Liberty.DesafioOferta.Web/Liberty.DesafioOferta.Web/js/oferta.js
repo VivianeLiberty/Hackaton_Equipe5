@@ -4,6 +4,7 @@
     });
 
     $('#Finalizar').click(function () {
+        //Chamada da API async e redirecionamento para institucional
         window.location.href = "https://www.libertyseguros.com.br/Pages/Home.aspx";
     });
 
