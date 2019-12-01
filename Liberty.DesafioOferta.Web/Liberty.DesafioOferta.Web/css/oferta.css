@@ -43,6 +43,14 @@ h6 {
     padding-top: 20px;
 }
 
+.space-up-lg {
+    padding-top: 60px;
+}
+
+.space-down-lg {
+    padding-top: 60px;
+}
+
 .space-left-min {
     padding-left: 10px;
 }
